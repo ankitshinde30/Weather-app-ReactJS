@@ -51,29 +51,31 @@ weather-app/
 
 Create a `.env` file in the root directory:
 
-```env
+
+
 VITE_APP_ID=your_openweathermap_api_key
 
-🚀 Getting Started Locally
+
+## 🚀 Getting Started Locally
 
 1) Clone the repository
 git clone https://github.com/yourusername/weather-app.git
-cd weather-app
+-cd weather-app
 
 2) Install dependencies
-npm install
+-npm install
 
 3) Create .env file
-VITE_APP_ID=your_api_key_here
+-VITE_APP_ID=your_api_key_here
 
 4) Run the app
-npm run dev
+-npm run dev
 
 🧪 Build for Production
-npm run build
+-npm run build
 
 ☁️ Deployment
-This app is deployed on Netlify:
+-This app is deployed on Netlify:
 
 Build Command: vite build
 
@@ -84,18 +86,18 @@ Environment Variables:
 VITE_APP_ID → OpenWeatherMap API key
 
 📜 License
-This project is open-source and available under the MIT License.
+-This project is open-source and available under the MIT License.
 
 🙋‍♂️ Author
-Ankit Vijay Shinde
-Frontend Developer
-LinkedIn • GitHub
+-Ankit Vijay Shinde
+-Frontend Developer
+-LinkedIn • GitHub
 
 💬 Feedback
-If you have suggestions or issues, feel free to open an issue or create a pull request!
+-If you have suggestions or issues, feel free to open an issue or create a pull request!
 
 
-
+---
 
 
 
